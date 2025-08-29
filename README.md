@@ -71,6 +71,7 @@ A modern inventory management dashboard built with **Next.js**, **GraphQL**, and
 - **Enhanced KPI visualizations** - Add infographic trend indicators comparing current vs previous month with percentage changes and arrow indicators
 - **Smart pagination** - Fetch data according to current page instead of loading all products at once
 - **Centralized state management** - Move date range selection logic to Redux for better state consistency across components
+- **Transfer Stock Feature** - It was already mentioned in the pdf but i was not able to impliment it because of time 
 
 #### User Experience Improvements
 - **Product management** - Add ability to delete products with confirmation modals
